@@ -1,15 +1,15 @@
 {
   "name": "app",
   "author": {
-    "name": "Dwayne Love",
-    "email": "dwaynelavon@gmail.com",
-    "url": "dwaynelavon.com"
+    "name": "Arthur.Dirk",
+    "email": "Arthur.Dirk@sanlam.co.za",
+    "url": "http://Arthur-Dirk/resume"
   },
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "http://Arthur-Dirk/resume",
   "dependencies": {
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^2.1.1",
     "material-ui": "^1.0.0-beta.18",
     "material-ui-icons": "^1.0.0-beta.17",
     "react": "^16.0.0",

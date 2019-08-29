@@ -7,7 +7,7 @@ const ResumeData = {
 
   tabLabels: ['Skills','Experience','Education'],
   
-  profileSummary: `Hi i am Arthur Dirk. I worked For the Sanlam group for 9 years. I have experience in IT, and met and exceeded my Goals and expectations i had to perform. I am a diligent worker, who take pride in my work. I am studing Full Stack Web Developer partime. `,
+  profileSummary: `Hi i am Arthur Dirk. I am working for the Sanlam group for 9 years. I have experience in IT, and met and exceeded my Goals and expectations i had to perform. I am a diligent worker, who take pride in my work. I am studing towards Full Stack Web Developer partime. `,
   
   buttonList: [
     {
@@ -116,10 +116,15 @@ const ResumeData = {
       },
       {
         schoolName: 'Dynamic Training Solutions',
-        Course: 'A+',
-        schoolLocation: 'Woodstock,Cape Town',
-        major: 'HTML, CSS, Javascript, React, NodeJS, MongoDB, Express, NextJS',
-        graduationYear: '2019'
+        Course: 'A+ Pc technician',
+        schoolLocation: 'Cape Town',
+        graduationYear: '2000'
+      },
+      {
+        schoolName: 'Direct Axis',
+        Course: 'FAIS',
+        schoolLocation: 'Claremont,Cape Town',
+        graduationYear: '2004'
       },
     ]
 } // end ResumeData
